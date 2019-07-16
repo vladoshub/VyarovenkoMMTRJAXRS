@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="ear" name="unnamed">
+    <output-path>$PROJECT_DIR$/out/artifacts/unnamed</output-path>
+    <root id="archive" name="unnamed.ear">
+      <element id="dir-copy" path="$PROJECT_DIR$/Vyarovenko-ear/target" />
+    </root>
+  </artifact>
+</component>

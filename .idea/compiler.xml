@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="web" />
+        <module name="api" />
+        <module name="Vyarovenkoear" />
+        <module name="dao" />
+        <module name="Vyarovenkowar" />
+        <module name="ear" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Dao" target="1.6" />
+      <module name="daos" target="1.6" />
+      <module name="service" target="1.6" />
+      <module name="Service" target="1.6" />
+      <module name="Service-api" target="1.6" />
+      <module name="services" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
